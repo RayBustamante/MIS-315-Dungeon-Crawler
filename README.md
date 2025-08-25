@@ -1,6 +1,6 @@
 # 🗡️ Turn-Based Strategy Mini-Game
 
-A simple turn-based combat simulator inspired by classics like **World of Warcraft**, **Dungeons & Dragons**, **Castle Crashers**, **Darkest Dungeon**, and **Diablo**. Built as a solo project for learning and experimenting with core gameplay mechanics, this prototype focuses on combat while laying the groundwork for a dungeon-crawling experience.
+A simple turn-based combat simulator inspired by classics like **World of Warcraft**, **Dungeons & Dragons**, **Castle Crashers**, **Darkest Dungeon**, and **Diablo**. Built as a solo project for learning and experimenting with core gameplay mechanics for my upper-division Information Systems Design class, this prototype focuses on combat while laying the groundwork for a dungeon-crawling experience.
 
 > ⚠️ This project is for educational and demonstration purposes only. All third-party assets are used under fair use for non-commercial development.
 
@@ -18,7 +18,7 @@ A simple turn-based combat simulator inspired by classics like **World of Warcra
 
 ---
 
-## NOTE: Due to file size limitations, music for the game is not included.
+## NOTE: Due to file size limitations, music for the game is shortened.
 
 ## 🛠️ How It Works
 
