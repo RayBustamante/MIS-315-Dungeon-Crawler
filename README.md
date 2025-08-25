@@ -18,6 +18,8 @@ A simple turn-based combat simulator inspired by classics like **World of Warcra
 
 ---
 
+## NOTE: Due to file size limitations, music for the game is not included.
+
 ## 🛠️ How It Works
 
 ### 🔹 New Game Flow
